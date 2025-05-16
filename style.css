@@ -1,0 +1,5 @@
+body { font-family: Arial; padding: 2em; background: #fafafa; }
+input, button, select { margin: 0.2em; padding: 0.4em; }
+.person { display: inline-block; margin: 0.2em 0.5em 0.2em 0; background: #eee; border-radius: 4px; padding: 0.2em 0.6em; }
+.item { margin: 0.4em 0; }
+#result { margin-top: 1em; font-weight: bold; }
